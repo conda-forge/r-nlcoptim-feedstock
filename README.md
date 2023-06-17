@@ -1,11 +1,11 @@
-About r-nlcoptim
-================
+About r-nlcoptim-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-nlcoptim-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=NlcOptim
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-nlcoptim-feedstock/blob/main/LICENSE.txt)
 
 Summary: Optimization for nonlinear objective and constraint functions.  Linear or nonlinear equality and inequality constraints are allowed.  It accepts the input parameters as a constrained matrix.
 
